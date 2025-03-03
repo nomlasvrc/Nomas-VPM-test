@@ -1,0 +1,17 @@
+{
+  "name": "com.nomlas.test",
+  "displayName": "Test Package",
+  "version": "0.0.2",
+  "description": "Describe this Package",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.7.5"
+  },
+  "author": {
+    "name": "nomlas"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "",
+  "unity": "2022.3"
+}
